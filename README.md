@@ -1,2 +1,1 @@
-# TinDog
-Startup page Using HTML,CSS,Bootstrap
+TinDog Starting Files
